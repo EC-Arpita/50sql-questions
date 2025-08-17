@@ -9,7 +9,7 @@ Each file corresponds to one problem.
 - Customers Who Never Order
 - Product Sales Analysis
 - Recyclable and Low Fat Products
-- ...
+- and more....
 
 ## How to Use
 Open each `.sql` file and run it in MySQL/LeetCode environment.
